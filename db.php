@@ -1,7 +1,7 @@
 <?php
 define('DB_HOST', 'sql101.infinityfree.com');
 define('DB_USER', 'if0_41435729');
-define('DB_PASS', 'KR16ooxuBfTY5R');
+define('DB_PASS', 'YOUR_PASSWORD_HERE');
 define('DB_NAME', 'if0_41435729_neu_library');
 
 function getDB() {
