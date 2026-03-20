@@ -67,7 +67,7 @@ define('DB_NAME', 'your_database_name');
 
 ---
 
-## 👥 Contributors
+## 👥 Developer
 
 - 👩‍💻 **Angel Grace Jordan**
 
